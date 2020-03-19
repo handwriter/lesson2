@@ -1,0 +1,260 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ui version="4.0">
+ <class>Form</class>
+ <widget class="QWidget" name="Form">
+  <property name="geometry">
+   <rect>
+    <x>0</x>
+    <y>0</y>
+    <width>860</width>
+    <height>422</height>
+   </rect>
+  </property>
+  <property name="windowTitle">
+   <string>Form</string>
+  </property>
+  <layout class="QGridLayout" name="gridLayout_2">
+   <item row="2" column="0">
+    <widget class="QRadioButton" name="radioButton_15">
+     <property name="text">
+      <string>Желтый</string>
+     </property>
+     <attribute name="buttonGroup">
+      <string notr="true">buttonGroup_3</string>
+     </attribute>
+    </widget>
+   </item>
+   <item row="1" column="5">
+    <widget class="QRadioButton" name="radioButton_13">
+     <property name="text">
+      <string>Красный</string>
+     </property>
+     <attribute name="buttonGroup">
+      <string notr="true">buttonGroup_2</string>
+     </attribute>
+    </widget>
+   </item>
+   <item row="1" column="2">
+    <widget class="QRadioButton" name="radioButton_10">
+     <property name="text">
+      <string>Голубой</string>
+     </property>
+     <attribute name="buttonGroup">
+      <string notr="true">buttonGroup_2</string>
+     </attribute>
+    </widget>
+   </item>
+   <item row="0" column="3">
+    <widget class="QRadioButton" name="radioButton_4">
+     <property name="text">
+      <string>Синий</string>
+     </property>
+     <attribute name="buttonGroup">
+      <string notr="true">buttonGroup</string>
+     </attribute>
+    </widget>
+   </item>
+   <item row="3" column="3">
+    <widget class="QPushButton" name="pushButton">
+     <property name="text">
+      <string>Сгенерировать флаг</string>
+     </property>
+    </widget>
+   </item>
+   <item row="0" column="6">
+    <widget class="QRadioButton" name="radioButton_7">
+     <property name="text">
+      <string>Оранжевый</string>
+     </property>
+     <attribute name="buttonGroup">
+      <string notr="true">buttonGroup</string>
+     </attribute>
+    </widget>
+   </item>
+   <item row="2" column="1">
+    <widget class="QRadioButton" name="radioButton_16">
+     <property name="text">
+      <string>Зеленый</string>
+     </property>
+     <attribute name="buttonGroup">
+      <string notr="true">buttonGroup_3</string>
+     </attribute>
+    </widget>
+   </item>
+   <item row="1" column="6">
+    <widget class="QRadioButton" name="radioButton_14">
+     <property name="text">
+      <string>Оранжевый</string>
+     </property>
+     <attribute name="buttonGroup">
+      <string notr="true">buttonGroup_2</string>
+     </attribute>
+    </widget>
+   </item>
+   <item row="2" column="2">
+    <widget class="QRadioButton" name="radioButton_17">
+     <property name="text">
+      <string>Голубой</string>
+     </property>
+     <attribute name="buttonGroup">
+      <string notr="true">buttonGroup_3</string>
+     </attribute>
+    </widget>
+   </item>
+   <item row="1" column="3">
+    <widget class="QRadioButton" name="radioButton_11">
+     <property name="text">
+      <string>Синий</string>
+     </property>
+     <attribute name="buttonGroup">
+      <string notr="true">buttonGroup_2</string>
+     </attribute>
+    </widget>
+   </item>
+   <item row="2" column="3">
+    <widget class="QRadioButton" name="radioButton_18">
+     <property name="text">
+      <string>Синий</string>
+     </property>
+     <attribute name="buttonGroup">
+      <string notr="true">buttonGroup_3</string>
+     </attribute>
+    </widget>
+   </item>
+   <item row="1" column="1">
+    <widget class="QRadioButton" name="radioButton_9">
+     <property name="text">
+      <string>Зеленый</string>
+     </property>
+     <attribute name="buttonGroup">
+      <string notr="true">buttonGroup_2</string>
+     </attribute>
+    </widget>
+   </item>
+   <item row="1" column="0">
+    <widget class="QRadioButton" name="radioButton_8">
+     <property name="text">
+      <string>Желтый</string>
+     </property>
+     <attribute name="buttonGroup">
+      <string notr="true">buttonGroup_2</string>
+     </attribute>
+    </widget>
+   </item>
+   <item row="0" column="2">
+    <widget class="QRadioButton" name="radioButton_3">
+     <property name="text">
+      <string>Голубой</string>
+     </property>
+     <attribute name="buttonGroup">
+      <string notr="true">buttonGroup</string>
+     </attribute>
+    </widget>
+   </item>
+   <item row="0" column="0">
+    <layout class="QGridLayout" name="gridLayout">
+     <item row="0" column="0">
+      <widget class="QRadioButton" name="radioButton">
+       <property name="text">
+        <string>Желтый</string>
+       </property>
+       <attribute name="buttonGroup">
+        <string notr="true">buttonGroup</string>
+       </attribute>
+      </widget>
+     </item>
+    </layout>
+   </item>
+   <item row="0" column="4">
+    <widget class="QRadioButton" name="radioButton_5">
+     <property name="text">
+      <string>Розовый</string>
+     </property>
+     <attribute name="buttonGroup">
+      <string notr="true">buttonGroup</string>
+     </attribute>
+    </widget>
+   </item>
+   <item row="1" column="4">
+    <widget class="QRadioButton" name="radioButton_12">
+     <property name="text">
+      <string>Розовый</string>
+     </property>
+     <attribute name="buttonGroup">
+      <string notr="true">buttonGroup_2</string>
+     </attribute>
+    </widget>
+   </item>
+   <item row="0" column="1">
+    <widget class="QRadioButton" name="radioButton_2">
+     <property name="text">
+      <string>Зеленый</string>
+     </property>
+     <attribute name="buttonGroup">
+      <string notr="true">buttonGroup</string>
+     </attribute>
+    </widget>
+   </item>
+   <item row="2" column="5">
+    <widget class="QRadioButton" name="radioButton_20">
+     <property name="text">
+      <string>Красный</string>
+     </property>
+     <attribute name="buttonGroup">
+      <string notr="true">buttonGroup_3</string>
+     </attribute>
+    </widget>
+   </item>
+   <item row="0" column="5">
+    <widget class="QRadioButton" name="radioButton_6">
+     <property name="text">
+      <string>Красный</string>
+     </property>
+     <attribute name="buttonGroup">
+      <string notr="true">buttonGroup</string>
+     </attribute>
+    </widget>
+   </item>
+   <item row="2" column="4">
+    <widget class="QRadioButton" name="radioButton_19">
+     <property name="text">
+      <string>Розовый</string>
+     </property>
+     <attribute name="buttonGroup">
+      <string notr="true">buttonGroup_3</string>
+     </attribute>
+    </widget>
+   </item>
+   <item row="2" column="6">
+    <widget class="QRadioButton" name="radioButton_21">
+     <property name="text">
+      <string>Оранжевый</string>
+     </property>
+     <attribute name="buttonGroup">
+      <string notr="true">buttonGroup_3</string>
+     </attribute>
+    </widget>
+   </item>
+   <item row="4" column="3">
+    <widget class="QLabel" name="label">
+     <property name="sizePolicy">
+      <sizepolicy hsizetype="Preferred" vsizetype="Maximum">
+       <horstretch>0</horstretch>
+       <verstretch>0</verstretch>
+      </sizepolicy>
+     </property>
+     <property name="text">
+      <string>TextLabel</string>
+     </property>
+    </widget>
+   </item>
+  </layout>
+ </widget>
+ <resources/>
+ <connections/>
+ <buttongroups>
+  <buttongroup name="buttonGroup"/>
+  <buttongroup name="buttonGroup_2"/>
+  <buttongroup name="buttonGroup_3"/>
+ </buttongroups>
+</ui>
